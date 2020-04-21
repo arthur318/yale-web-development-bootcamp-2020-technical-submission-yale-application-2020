@@ -16,8 +16,7 @@ favorite_food = "Pizza"
 height_in_inches = 71
 
 # 5
-AVERAGE_HEIGHT_IN_INCHES
-height_message = 
+height_message = (height_in_inches > AVERAGE_HEIGHT_IN_INCHES)? ("You are taller than average."):("You are not taller than average.") 
 
 
 ## Do not modify below this line!
