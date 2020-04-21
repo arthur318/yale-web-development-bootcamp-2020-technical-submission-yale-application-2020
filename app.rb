@@ -16,7 +16,9 @@ favorite_food = "Pizza"
 height_in_inches = 71
 
 # 5
+AVERAGE_HEIGHT_IN_INCHES
 height_message = 
+
 
 ## Do not modify below this line!
 
