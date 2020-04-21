@@ -10,7 +10,7 @@ name = "Arthur Hwang"
 age = 23
 
 # 3
-favorite_food = "Pizza"
+favorite_food = "pizza"
 
 # 4
 height_in_inches = 71
